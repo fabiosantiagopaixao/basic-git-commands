@@ -14,7 +14,7 @@ Here is the flow I normally use in git, the most used commands.
 ```
 1. git checkout master 
 2. git merge develop
-3. git push -u origin maste
+3. git push -u origin master
 ```
 
 ## Creating tags
