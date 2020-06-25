@@ -31,4 +31,16 @@ If you want to include a description with your tag, add -a to create an annotate
 Or if you just want to push a single tag:
 
   git push origin <tag>
+  ```
+  
+  ## Clean changes
+  
+  ```
+  1. git checkout --
+  2. git clean -f -d
+  3. git reset HEAD
+  4. git log --stat
+  ```
+  
+  
 ```
