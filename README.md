@@ -33,6 +33,12 @@ Or if you just want to push a single tag:
   git push origin <tag>
   ```
   
+  ## Deleting tags
+  
+  ```
+1. git push --delete origin tagname
+  ```
+  
   ## Clean changes
   
   ```
